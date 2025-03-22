@@ -273,7 +273,8 @@ const sampleListings = [
     },
     price: 750,
     location: "Costa Rica",
-    country: "Costa Rica",
+    country: "Costa Rica"
+
   },
   {
     title: "Historic Cottage in Charleston",
@@ -346,6 +347,7 @@ const sampleListings = [
     price: 1800,
     location: "Costa Rica",
     country: "Costa Rica",
+    
   },
 ];
 
